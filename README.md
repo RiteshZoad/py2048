@@ -12,3 +12,6 @@ After ever move it swapns a tile value 2 on any empty space on the board.
 - A: move left
 - S: move downwards
 - D: move right
+
+####  Platform Used:
+- PyCharm
