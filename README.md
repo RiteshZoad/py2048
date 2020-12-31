@@ -14,4 +14,5 @@ After ever move it swapns a tile value 2 on any empty space on the board.
 - D: move right
 
 ####  Platform Used:
-- PyCharm
+- Windows 8 System
+- IDE used was PyCharm
